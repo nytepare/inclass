@@ -1,0 +1,21 @@
+/*make the background color of the page black */
+/* change the colour of the fonts to white */
+
+
+body{
+  background-color: black;
+  font-color: white;
+}
+
+
+/* Change the color of the headlines */
+
+h1,h2,h3,h4,h5,h6 {
+  color: navy;
+}
+
+
+.paragraph {
+  color: white;
+}
+/* Create a class that you can use to change the colour of one paragraph */

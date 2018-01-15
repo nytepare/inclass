@@ -4,18 +4,18 @@
 
 body{
   background-color: black;
-  font-color: white;
+  color: white;
 }
 
 
 /* Change the color of the headlines */
 
 h1,h2,h3,h4,h5,h6 {
-  color: navy;
+  color: white;
 }
 
 
-.paragraph {
-  color: white;
+.pink {
+  color: pink;
 }
 /* Create a class that you can use to change the colour of one paragraph */
